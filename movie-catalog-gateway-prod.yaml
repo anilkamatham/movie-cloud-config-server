@@ -1,0 +1,6 @@
+zuul:
+ routes:
+  movie-rating:
+   url: http://localhost:8012
+  movie-info:
+   url: http://localhost:8011
